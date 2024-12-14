@@ -1,0 +1,13 @@
+.menu{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+
+.logo-azul{
+    color: var(--color1);
+}
+
+.btn{
+    font-size: clamp(0.6875rem, 0.5852rem + 0.4545vw, 0.9375rem);
+}
